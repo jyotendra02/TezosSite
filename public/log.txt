@@ -1,0 +1,11 @@
+npm create react-app TEZOSSITE
+
+logo deleted in public 
+
+npm install -D tailwindcss
+npx tailwindcss init
+
+config file changed
+index.css changed
+
+components directory created
